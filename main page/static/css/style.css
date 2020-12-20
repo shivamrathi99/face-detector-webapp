@@ -8,12 +8,13 @@ body {
 }
 
 img {
-  height: 15em;
+  position: relative;
+  height: 20em;
   width: 15em;
 }
 
 canvas {
-  display: block;
+  display: flex;
 }
 
 .control-buttons {
